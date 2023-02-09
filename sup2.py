@@ -46,11 +46,3 @@ tab()
 db.commit()    
 #cursor.execute("INSERT INTO DATA(QUARTIERE,METRI,PREZZO) VALUES(?,?,?)")
 
-
-x=1
-
-
-
-
-
-m
