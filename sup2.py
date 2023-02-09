@@ -44,17 +44,9 @@ def tab():
     return cursor.execute("INSERT INTO DATA(QUARTIERE,METRI,PREZZO) VALUES(?,?,?)",(nn, xx, yy ) )
 tab()
 db.commit()    
-print(len(addr))
-print(len(costo))
-print(len(metr2))   
-
 #cursor.execute("INSERT INTO DATA(QUARTIERE,METRI,PREZZO) VALUES(?,?,?)")
-#db.commit()
 
 
-
-
-x=1
  
 
 
