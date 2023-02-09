@@ -2,7 +2,6 @@ from bs4  import BeautifulSoup
 import requests
 import sqlite3
 
-
 url= "https://www.wg-gesucht.de/1-zimmer-wohnungen-in-Hamburg.55.1.1.0.html"
 result = requests.get(url)
 doc = BeautifulSoup(result.text, "html.parser")
@@ -45,6 +44,5 @@ def tab():
         
     return i 
 
-    
 tab()
 #cursor.execute("INSERT INTO DATA(QUARTIERE,METRI,PREZZO) VALUES(?,?,?)")
