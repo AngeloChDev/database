@@ -38,5 +38,6 @@ for metro in metri:                                                             
     metr2.append(m2)
     cursor.execute("INSERT INTO DATA(METRI) VALUES(?)",(m2,))
 #cursor.execute("INSERT INTO DATA(QUARTIERE,METRI,PREZZO) VALUES(?,?,?)",(s,))          ## INSERT VALUES IN TABLE
-db.commit()    
+db.commit()   
+x=1 
   
