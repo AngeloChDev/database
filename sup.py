@@ -20,7 +20,6 @@ cursor.execute('''
 addr = []
 costo =[]
 metr2 =[]
-i = 0
 for address in div_address:
     span = address.find('span')
     s = span.text[150:]
