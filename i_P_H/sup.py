@@ -23,8 +23,8 @@ for tr in rows:
 
 anno.reverse()
 Npersone.reverse()
-df = pd.DataFrame({'anni':anno,'persone': Npersone.sort()}) 
-fig = px.line(df,x='anni',y=Npersone)
+
+fig = px.line(x=anno,y=Npersone)
 fig.show()
 
 db= sqlite3.connect('h.db')
@@ -50,4 +50,5 @@ def tab():
        print('Finisch')
 
 if __name__ == '__main__':
-    tab()
+    #tab()
+    fig.show()
