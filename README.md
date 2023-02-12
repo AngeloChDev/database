@@ -12,5 +12,5 @@
 
 **plotly: per la creazione di grafici**
 
-[Image](plot.png)
-[Image](plot2.png)
+[logo](plot.png)
+[logo](plot2.png)
