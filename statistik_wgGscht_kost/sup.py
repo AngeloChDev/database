@@ -8,6 +8,9 @@ doc = BeautifulSoup(result.text, "html.parser")
 cards = doc.find_all('div', attrs={ 'class':'middle'})
 div_address = doc.find_all('div', attrs={ 'class':'col-xs-11'})
 metri = doc.find_all('div', attrs={ 'class':'col-xs-3 text-right'})
+
+
+
 db= sqlite3.connect('b.db')
 cursor = db.cursor()
 cursor.execute('''
@@ -17,6 +20,8 @@ cursor.execute('''
                  PREZZO TEXT
                 )
             ''')
+
+
 addr = []
 costo =[]
 metr2 =[]
