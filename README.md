@@ -1,4 +1,4 @@
-**DATABASE**
+#DATABASE
 
 **Qui mi alleno sull estrapolazione dati** 
 
@@ -12,5 +12,5 @@
 
 **plotly: per la creazione di grafici**
 
-[link](plot.png)
-[link](plot2.png)
+[Img](plot.png)
+[Img](plot2.png)
