@@ -7,3 +7,5 @@
 **sqlite3: per il salvataggio degli stessi sul databese**
 **plotly: per la creazione di grafici**
 
+[link](plot.png)
+[link](plot2.png)
