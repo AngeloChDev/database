@@ -12,5 +12,4 @@
 
 **plotly: per la creazione di grafici**
 
-[Image](plot.png)
-[Image](plot2.png)
+![plot](https://user-images.githubusercontent.com/124574223/218331267-ff1608f5-740d-47b1-9be7-f4e33d3b62b1.png)
