@@ -12,6 +12,6 @@
 
 **plotly: per la creazione di grafici**
 
-![plot](https://user-images.githubusercontent.com/124574223/218331267-ff1608f5-740d-47b1-9be7-f4e33d3b62b1.png)
+![grfk](https://user-images.githubusercontent.com/124574223/218333634-e24fb53a-0e49-4295-881d-5a0023aafebc.png)
 ![plot2](https://user-images.githubusercontent.com/124574223/218331338-52443f35-843a-41b3-92b2-f20f946179bf.png)
-![scrn](https://user-images.githubusercontent.com/124574223/218331952-3c9e0955-d795-441c-bb89-3856b277bdd3.png)
+![scrpt](https://user-images.githubusercontent.com/124574223/218333623-08f10580-eb76-440e-9774-98c5ab3b5d3d.png)
